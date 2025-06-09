@@ -94,7 +94,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - Nutrition data from verified Indian food sources
 - Icons by [Font Awesome](https://fontawesome.com)
 - Typography via [Google Fonts](https://fonts.google.com)
-- Developed with 💙 by **Atharva Salunkhe** & **Sulaiman**
+- Developed with 💙 by **Atharva Salunkhe**, **Malhar Sawant**
+ & **Sulaiman Khan**
 
 ---
 
